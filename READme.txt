@@ -1,5 +1,5 @@
 This is a sample project made of a fully functional e-commerce website.
-The Back-end and the front-end is written in Django, Templates consisting code written in HTML,CSS,Bootstrap,JavaScript,Ajax,JQuery.
+The full stack framework used for development is Django; Templates consisting code written in HTML,CSS,Bootstrap,JavaScript,Ajax,JQuery.
 The features of the website includes a well organised homepage consisting of category-wise representation of all the products.
 A nice UI for the user and sliders/carousels used for placing products.Other pages are connected to the Home in a manner that user won't find it difficult to navigate through it.
 And About us page. A Contact us page in which the customer can submit any form of query or complaint to the admin. 
